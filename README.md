@@ -51,9 +51,11 @@ A: In an Excel file created automatically in the app’s folder.
 🌐 Website
 
 A responsive website for this project is included in the website/ folder.
-You can open it locally or host it on GitHub Pages.
+
 
 🔗 Website Preview
+
+https://dakshshah1045.github.io/Face_Recognition_Attendance/
 
 👨‍💻 Author
 
@@ -63,6 +65,3 @@ GitHub: DakshShah1045
 
 Portfolio: dakshshah1045.github.io/Portfolio
 
-📄 License
-
-This project is licensed under the MIT License.
